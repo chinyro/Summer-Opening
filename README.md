@@ -1,3 +1,5 @@
-# Summer-Opening-Countdown-Timer
+# Summer Opening Countdown Timer
 
 ![](images/countdown.gif)
+
+Inspired by Dev Ed
